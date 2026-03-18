@@ -3,7 +3,7 @@
 ## 🔄 Pipeline de Synchronisation
 
 <p align="center">
-  <img src="./Cloud Nexus Synchronisation/assets/Pipeline_ projet.png" alt="NexusSync Banner" width="80%">
+  <img src="./Cloud Nexus Synchronisation/assets/Pipeline_ projet.png" alt="NexusSync Banner" width="100%">
 </p>
 
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
