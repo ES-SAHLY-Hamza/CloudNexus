@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644567152873",
+    "project_id": "lahmerprojects",
+    "storage_bucket": "lahmerprojects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644567152873:android:6eed458ebf488158cb5878",
+        "android_client_info": {
+          "package_name": "com.example.lahmerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3-xC8Xxe_un-uX9LRPPtj9WsBe4kWIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
