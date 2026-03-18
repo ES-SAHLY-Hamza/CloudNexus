@@ -20,7 +20,8 @@
 - Restaurer leurs données depuis le cloud
 - Synchroniser automatiquement leurs données entre plusieurs appareils
 
-Chaque utilisateur est identifié via son **compte Google**, garantissant une gestion sécurisée et personnalisée des données :contentReference.
+Chaque utilisateur est identifié via son **compte Google**, garantissant une gestion sécurisée et personnalisée des données.
+
 
 ---
 
