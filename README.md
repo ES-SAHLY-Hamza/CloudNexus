@@ -20,13 +20,11 @@
 - Restaurer leurs données depuis le cloud
 - Synchroniser automatiquement leurs données entre plusieurs appareils
 
-Chaque utilisateur est identifié via son **compte Google**, garantissant une gestion sécurisée et personnalisée des données :contentReference[oaicite:1]{index=1}.
+Chaque utilisateur est identifié via son **compte Google**, garantissant une gestion sécurisée et personnalisée des données :contentReference.
 
 ---
 
 ## 🎯 Objectif du Projet
-
-Ce projet a été réalisé dans le cadre du module **Programmation Mobile (ESISA - 2025)**.
 
 L'objectif principal est de concevoir une solution permettant :
 - La **continuité des données mobiles**
