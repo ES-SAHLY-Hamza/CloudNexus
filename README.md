@@ -2,10 +2,7 @@
 
 ## 🔄 Pipeline de Synchronisation
 
-<p align="center">
-  <img src="assets/Pipeline_ projet.png" width="800"/>
-</p>
-
+![test](assets/pipeline_projet.png)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/Local_DB-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
