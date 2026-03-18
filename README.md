@@ -3,7 +3,7 @@
 ## 🔄 Pipeline de Synchronisation
 
 <p align="center">
-  <img src="assets/Pipeline projet.png" width="800"/>
+  <img src="assets/Pipeline_ projet.png" width="800"/>
 </p>
 
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
