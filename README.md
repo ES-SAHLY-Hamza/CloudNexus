@@ -1,9 +1,9 @@
-# 🚀 NexusSync | Cloud Backup & Hybrid Synchronization Solution
+# 🚀 CloudNexus | Cloud Backup & Hybrid Synchronization Solution
 
 ## 🔄 Pipeline de Synchronisation
 
 <p align="center">
-  <img src="./Cloud Nexus Synchronisation/assets/Pipeline_ projet.png" alt="NexusSync Banner" width="100%">
+  <img src="./Cloud Nexus Synchronisation/assets/Pipeline_ projet.png" alt="CloudNexus Banner" width="100%">
 </p>
 
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -14,7 +14,7 @@
 
 ## 📌 Présentation
 
-**NexusSync** est une application mobile cross-platform développée avec **Flutter**, permettant aux utilisateurs de :
+**CloudNexus** est une application mobile cross-platform développée avec **Flutter**, permettant aux utilisateurs de :
 
 - Sauvegarder leurs **contacts, SMS et favoris**
 - Restaurer leurs données depuis le cloud
@@ -36,7 +36,7 @@ L'objectif principal est de concevoir une solution permettant :
 
 ## 🧠 Concept Clé : Architecture Hybride
 
-NexusSync utilise une architecture **hybride combinant local + cloud** :
+CloudNexus utilise une architecture **hybride combinant local + cloud** :
 
 | Composant | Rôle |
 |----------|------|
